@@ -1,3 +1,10 @@
+packages:
+  - worker
+  - frontend
+  - pages
+  - vitepress-docs
+  - smtp_proxy_server
+
 onlyBuiltDependencies:
   - core-js-pure
   - esbuild
